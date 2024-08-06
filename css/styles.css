@@ -41,7 +41,7 @@ nav a:hover{
 }
 .title{
     position: absolute;
-    left: 70px;
+    left: 45px;
     background: #FFF;
     padding: 10px 20px;
     border-radius: 10px;
@@ -61,5 +61,6 @@ nav a:hover{
     transform: rotate(45deg);
 }
 nav a:hover .title{
+    left: 65px;
     opacity: 1;
 }
